@@ -2,9 +2,13 @@
 
 ## Instructions
 
-**First, clone this repository. You will commit your solutions to your cloned
+1. Fork this repository. You will commit your solutions to your cloned
 repository, and submit the repository for grading at the end of the
-assessment.**
+assessment.
+
+2. Clone your fork from GitHub.
+
+3. 
 
 In each problem, you will complete the implementation of several small methods,
 classes, or programs that we provide you with.
