@@ -1,4 +1,4 @@
-# Access Code 2.1 final assessment &mdash; laptop coding section
+# Access Code 2.1 final assessment &mdash; laptop coding
 
 ## Instructions
 
@@ -20,16 +20,17 @@ For each problem, do the following:
 
 1. Read and understand the README.
 2. Examine the provided code, especially the parts marked "TODO".
-3. Implement the problem.
+3. Implement your solution.
 
 Finally, check your solution for the following:
 
-- The code compiles (ideally, without warnings).
+- The code compiles, ideally without warnings.
 - If tests are provided, they pass.
 - Your code is organized and formatted reasonably.
 - Your variables, methods, and attributes are named reasonably.
 - You follow good Java coding practice regarding,
   - member access (`public` or `private`)
+  - use of accessors
   - static methods and attributes
 
 
