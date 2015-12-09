@@ -9,14 +9,14 @@ For example,
 
 - start with an empty queue
 
-- enqueue the string "BOLDLY TO GO" 
+- enqueue "BOLDLY TO GO" 
 
 - dequeue 7 characters, which returns "BOLDLY " and leaves "TO GO" in the queue
 
-- enqueue the string " TO THE STORE", which leaves "TO GO TO THE STORE" in the
+- enqueue " TO THE STORE", which leaves "TO GO TO THE STORE" in the
   queue
 
-- dequeue 6 characters, which returns "TO GO " and leaves the characters "TO THE
+- dequeue 6 characters, which returns "TO GO " and leaves "TO THE
   STORE" in the queue
 
 We've provided for you an _interface_ [`StringQueue`](StringQueue.java). Your
