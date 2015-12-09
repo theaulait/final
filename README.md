@@ -33,6 +33,10 @@ Finally, check your solution for the following:
   - use of accessors
   - static methods and attributes
 
+These problems are designed to be solved with relatively few lines of code. If
+you find yourself writing dozens of lines of code to solve one problem, try
+looking for a simpler solution.
+
 
 ## Part 1: Java
 
