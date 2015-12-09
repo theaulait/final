@@ -5,11 +5,6 @@ behaves as a queue of individual characters, except that enqueueing and
 dequeing are done with strings (which are effectively sequences of characters)
 rather than individual characters.
 
-When enqueing, the provided string is added to the back of the queue, as if its
-contituent characters were added sequentially. When dequeueing, the caller
-requests a specific number of characters, which are removed from the front of 
-the queue and returned as a string. The queue is initially empty.
-
 For example, 
 
 - start with an empty queue
@@ -26,7 +21,7 @@ For example,
 
 We've provided for you an _interface_ [`StringQueue`](StringQueue.java). Your
 task is to create a new class `SimpleStringQueue` in a new Java source file that
-implements this interface. Do not modify the interface.
+_implements_ this interface. Do not modify the interface.
 
 Your implementation can use a single string attribute for the contents of the queue.
 
