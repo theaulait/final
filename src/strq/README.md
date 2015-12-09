@@ -28,7 +28,7 @@ We've provided for you an _interface_ [`StringQueue`](StringQueue.java). Your
 task is to create a new class `SimpleStringQueue` in a new Java source file that
 implements this interface. Do not modify the interface.
 
-Your implementation can use a single string to track the contents of the buffer.
+Your implementation can use a single string attribute for the contents of the queue.
 
 We've also provided a simple [test class](Test.java). 
 
