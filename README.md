@@ -1,17 +1,22 @@
 # Access Code 2.1 final assessment &mdash; laptop coding section
 
-In this section, you will complete the implementation of several small methods,
-classes, or programs that we provide you with. Each question is contained
-in a separate package under the `src/` directory of each repository. Each 
-package contains a `README.md` describing the problem and specifying what you
-must do to solve it.
+## Instructions
+
+**First, clone this repository. You will commit your solutions to your cloned
+repository, and submit the repository for grading at the end of the
+assessment.**
+
+In each problem, you will complete the implementation of several small methods,
+classes, or programs that we provide you with.
+
+Each problem is contained in a separate package directory.
 
 Very simple tests are provided with some of the problems. These tests are _not_
 comprehensive; passing these tests does not guarantee that your solution is
 correct. Your solution must satisfy the problem as described, and otherwise
 behave reasonably. You may add additional tests if you find that helpful.
 
-For each question, do the following:
+For each problem, do the following:
 
 1. Read and understand the README.
 2. Examine the provided code, especially the parts marked "TODO".
@@ -30,15 +35,15 @@ Finally, check your solution for the following:
 
 ## Part 1: Java
 
-Complete all five questions.
+Complete all five problems.
 
-Question 1: [abbr](src/abbr)
+Problem 1: [abbr](src/abbr)
 
-Question 2: [states](src/states)
+Problem 2: [states](src/states)
 
-Question 3: [radiobutton](src/radiobutton)
+Problem 3: [radiobutton](src/radiobutton)
 
-Question 4: [strq](src/strq)
+Problem 4: [strq](src/strq)
 
-Question 5: [cardgame](src/cardgame)
+Problem 5: [cardgame](src/cardgame)
 
