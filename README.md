@@ -8,12 +8,12 @@ assessment.
 
 2. Clone your fork from GitHub.
 
-3. 
+3. Import the code into IntelliJ by selecting "Import Project", choosing the
+top directory of your clone, and accepting the defaults.
 
 In each problem, you will complete the implementation of several small methods,
-classes, or programs that we provide you with.
-
-Each problem is contained in a separate package directory.
+classes, or programs that we provide you with. Each problem is contained in a
+separate package directory.
 
 Very simple tests are provided with some of the problems. These tests are _not_
 comprehensive; passing these tests does not guarantee that your solution is
@@ -23,7 +23,9 @@ behave reasonably. You may add additional tests if you find that helpful.
 For each problem, do the following:
 
 1. Read and understand the README.
+
 2. Examine the provided code, especially the parts marked "TODO".
+
 3. Implement your solution.
 
 Finally, check your solution for the following:
