@@ -32,5 +32,3 @@ Your implementation can use a single string to track the contents of the buffer.
 
 We've also provided a simple [test class](Test.java). 
 
-
-
