@@ -1,3 +1,5 @@
+package states;
+
 import java.util.Map;
 
 public class USStates {

@@ -1,3 +1,5 @@
+package abbr;
+
 public class Abbreviate {
 
     /**
