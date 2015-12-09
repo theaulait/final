@@ -11,14 +11,14 @@ assessment.
 3. Import the code into IntelliJ by selecting "Import Project", choosing the
 top directory of your clone, and accepting the defaults.
 
-In each problem, you will complete the implementation of several small methods,
+In each problem, you will complete the implementation of small methods,
 classes, or programs that we provide you with. Each problem is contained in a
 separate package directory.
 
 Very simple tests are provided with some of the problems. These tests are _not_
 comprehensive; passing these tests does not guarantee that your solution is
 correct. Your solution must satisfy the problem as described, and otherwise
-behave reasonably. You may add additional tests if you find that helpful.
+behave reasonably. You may add additional tests if you wish.
 
 For each problem, do the following:
 
@@ -32,15 +32,15 @@ Finally, check your solution for the following:
 
 - The code compiles, ideally without warnings.
 - If tests are provided, they pass.
-- Your code is organized and formatted reasonably.
+- Your code is well organized and formatted.
 - Your variables, methods, and attributes are named reasonably.
-- You follow good Java coding practice regarding,
+- You follow good Java practice regarding,
   - member access (`public` or `private`)
   - use of accessors
   - static methods and attributes
 
-These problems are designed to be solved with relatively few lines of code. If
-you find yourself writing dozens of lines of code to solve one problem, try
+These problems are designed to be solved with relatively few lines of straightforward code. If
+you find yourself writing dozens of lines or complex logic to solve one problem, try
 looking for a simpler solution.
 
 
