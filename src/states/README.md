@@ -9,4 +9,8 @@ elements, the names of the 50 U.S. states.  Your task is to implement
 constructs a map whose keys are the 26 capital letters of the alphabet, and
 whose values are the numbers of states with that first letter.
 
+We've provided a simple test `main()` for you; feel free to add additional logic
+to further test your code. Do not modify the definition of `STATE_NAMES`.
 
+Your code must _compute_ the number of states whose names start with each 
+letter. Do not simply hard code the results.

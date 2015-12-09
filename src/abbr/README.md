@@ -9,6 +9,6 @@ would be abbreviated,
 
 > Th qck brwn fx jmpd vr th lzy dgs.
 
-Your task is to fill in implementation in [Abbreviate.java](Abbreviate.java). 
-We'e provided a simple test `main()` for you; feel free to add additional lines
+Your task is to fill in implementation in [Abbreviate.java](Abbreviate.java).
+We've provided a simple test `main()` for you; feel free to add additional lines
 to test your code further.
