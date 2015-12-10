@@ -43,7 +43,7 @@ public class RadioButtonGroup {
     }
 
     /**
-     * Returns whether a given button is selected..
+     * Returns whether a given button is selected.
      * @param button
      *   The button number to check.
      * @raise RuntimeException
