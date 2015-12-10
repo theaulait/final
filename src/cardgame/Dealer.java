@@ -9,7 +9,7 @@ public class Dealer {
     /**
      * Shuffles a list of objects in place.  Moves objects around until the order is
      * completely random.  This method changes the order of the elements in 'list', but
-     * does not enqueue or remove any.
+     * does not add or remove any.
      */
     public static <T> void shuffle(List<T> list) {
         final Random random = new Random();

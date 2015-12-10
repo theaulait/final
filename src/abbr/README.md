@@ -1,11 +1,11 @@
 # Abbreviate
 
 Write a method that abbreviates a string by removing all (capital and lower
-case) vowels. For example, the string.
+case) vowels. For example, the string:
 
 > The quick brown fox jumped over the lazy dogs.
 
-would be abbreviated,
+would be abbreviated to:
 
 > Th qck brwn fx jmpd vr th lzy dgs.
 

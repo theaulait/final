@@ -2,7 +2,7 @@
 
 In this problem, you will implement a "string queue". This data structure
 behaves as a queue of individual characters, except that enqueueing and 
-dequeing are done with strings (which are effectively sequences of characters)
+dequeueing are done with strings (which are effectively sequences of characters)
 rather than individual characters.
 
 For example, 

@@ -5,13 +5,13 @@ import java.util.Map;
 public class USStates {
 
     /**
-     * Counts states by their first letter.
+     * Count states by their first letter.
      *
      * @return
      *   A map from the initial (capital) letter to the number of states whose
      *   names start with that letter.  The map should have exactly 26 keys, one
      *   for each letter of the alphabet.  For example, 'A' should be a key with
-     *   value 4 (Alamaba, Alaska, Arizona, Arkansas), and 'B' should be a key
+     *   value 4 (Alabama, Alaska, Arizona, Arkansas), and 'B' should be a key
      *   with value 0.
      */
     public static Map<Character, Integer> countStatesByFirstLetter() {
@@ -21,7 +21,7 @@ public class USStates {
 
     public static void main(String[] args) {
         Map<Character, Integer> counts = countStatesByFirstLetter();
-        // Do some simple tests.  Feel free to enqueue your own.
+        // Do some simple tests.  Feel free to add your own.
         if (counts.size() != 26) throw new AssertionError();
         if (!counts.containsKey('A')) throw new AssertionError();
         if (counts.get('A') != 4) throw new AssertionError();
