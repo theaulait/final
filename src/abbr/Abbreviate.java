@@ -1,5 +1,10 @@
 package abbr;
 
+import strq.StringQueue;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Abbreviate {
 
     /**
@@ -9,8 +14,18 @@ public class Abbreviate {
      * lower case, removed.  Other characters are unmodified.
      */
     public static String abbreviate(String string) {
-        // TODO: Write this method.
-        return null;
+        String newString = "";
+
+        for(int i = 0; i < string.length(); i ++ ){
+            char letter = string.charAt(i);
+            if((letter == 'a') || (letter == 'e') || (letter == 'i')|| (letter == 'o') || (letter == 'u')
+            || (letter == 'A') || (letter == 'E') || (letter == 'I')|| (letter == 'O') || (letter == 'U')){
+                String head = string.substring(0, i);
+                String end = string.substring(i + 1);
+                newString = head + "" + end;
+            }
+        }
+        return newString;
     }
 
     public static void main(String[] args) {

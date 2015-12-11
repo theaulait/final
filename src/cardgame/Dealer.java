@@ -51,9 +51,16 @@ public class Dealer {
      */
     public static List<List<Card>> deal(int numPlayers, int numCards) {
         // TODO: Finish this method as follows:
-        // - Get a shuffled deck of cards.
+        // - Get a shuffled deck of card.
+        List<Card> shuffled = getShuffledDeck();
         // - Create a list of hands.
+        List<Integer> hands = new ArrayList<Integer>();
+      //  for(int i = 1; i < numPlayers; i++){
+      //      int player = i++;
+      //      hands.add(player);
+      //  }
         // - For each hand,
+       List<Card> handCard = new ArrayList<>();
         //   - Create a list of cards.
         //   - Add cards to the hand, removing them from the deck.
         //   - Add the hand to the list of hands.
